@@ -1,7 +1,6 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-import {LoginWidget, qwe} from './components/loginWidget';
 
 
 function App() {
@@ -18,12 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          ddddd
-          qweqweq
-          asdvasdvasdvas
-          asdvasdvasdv
-          Learn React
-          invoker power
+          test commit///////
         </a>
       </header>
     </div>
